@@ -1,1 +1,1 @@
-#Simple  Weatherapp for Android 
+#Simple  Weather app for Android 
